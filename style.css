@@ -1,1 +1,13 @@
-
+.header-container{
+    width: 1170px;
+    height: 100px;
+}
+.logo{
+    float: left;
+}
+.header-text{
+    float: right;
+}
+.header-contact{
+    float: right;
+}
