@@ -8,9 +8,10 @@
 }
 .header-right{
     float: right;
+    display: flex;
 }
 .btn{
     background-color: red;
     color: white;
-    padding: 20px 40px;
+    padding: 10px 20px;
 }
