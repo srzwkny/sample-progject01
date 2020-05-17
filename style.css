@@ -1,13 +1,16 @@
 .header-container{
-    width: 1170px;
-    height: 200px;
+    width: 80%;
+    height: 100px;
 }
 .logo{
     float: left;
+    margin: 0 auto;
 }
-.header-text{
+.header-right{
     float: right;
 }
-.header-contact{
-    float: right;
+.btn{
+    background-color: red;
+    color: white;
+    padding: 20px 40px;
 }
